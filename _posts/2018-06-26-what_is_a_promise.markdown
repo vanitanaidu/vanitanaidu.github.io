@@ -1,9 +1,12 @@
 ---
 layout: post
 title:      "What is a Promise"
-date:       2018-06-26 15:34:54 +0000
+date:       2018-06-26 11:34:55 -0400
 permalink:  what_is_a_promise
 ---
+
+
+![](https://i.imgur.com/h8jChENl.jpg)
 
 
 
