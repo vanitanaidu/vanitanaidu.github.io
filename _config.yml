@@ -1,10 +1,10 @@
 # Site settings
-title: 
+title: Code Comments
 header-img: img/home-bg.png
 email: vanita112003@gmail.com
 copyright_name: vanitanaidu
 description: > # this means to ignore newlines until "baseurl:"
-  
+  My Adventures in Ruby and Javascript
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  vanitanaidu
