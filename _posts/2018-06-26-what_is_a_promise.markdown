@@ -63,20 +63,20 @@ Take a look at this code and guess what the return result would be?
 
 (2) In what order will the alphabets be returned if the promise was rejected and there was an error?
 
-</br>
+
 
 The answer is  …………...........
 
-</br> 
-</br> 
-</br> 
-</br>
+<br></br> 
+<br></br> 
+<br></br> 
+<br></br>
 
 ***a,b,e,c*** -  If the promise was fullfilled
 
 ***a,b,e,d*** -  If the promise was rejected
 
-</br>
+<br></br>
 
 **How did we arrive at this answer?**
 
