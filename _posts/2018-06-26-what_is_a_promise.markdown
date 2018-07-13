@@ -67,16 +67,19 @@ Take a look at this code and guess what the return result would be?
 
 The answer is  …………...........
 
-<br></br> 
-<br></br> 
-<br></br> 
-<br></br>
+
+
+
+
+
+
+
 
 ***a,b,e,c*** -  If the promise was fullfilled
 
 ***a,b,e,d*** -  If the promise was rejected
 
-<br></br>
+
 
 **How did we arrive at this answer?**
 
