@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "What is a Promise"
-date:       2018-07-01 13:11:58 -0400
+date:       2018-02-11 00:00:00 -0500
 permalink:  what_is_a_promise
 ---
 
