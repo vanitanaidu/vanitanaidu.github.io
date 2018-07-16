@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "React Redux Glossary "
-date:       2018-06-26 11:33:47 -0400
+date:       2017-12-07 00:00:00 -0500
 permalink:  react_redux_glossary
 ---
 
