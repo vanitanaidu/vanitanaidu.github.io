@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Loading and Displaying a form_for via AJAX"
-date:       2018-06-26 11:16:12 -0400
+date:       2017-07-08 00:00:00 -0400
 permalink:  loading_and_displaying_a_form_for_via_ajax
 ---
 
