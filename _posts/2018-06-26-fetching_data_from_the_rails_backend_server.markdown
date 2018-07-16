@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Fetching data from the rails backend server"
-date:       2018-06-26 15:34:20 +0000
+date:       2018-05-30 00:00:00 -0400
 permalink:  fetching_data_from_the_rails_backend_server
 ---
 
