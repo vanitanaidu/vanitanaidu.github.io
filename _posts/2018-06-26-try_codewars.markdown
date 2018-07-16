@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Try Codewars"
-date:       2018-06-26 15:17:05 +0000
+date:       2017-10-14 00:00:00 -0400
 permalink:  try_codewars
 ---
 
