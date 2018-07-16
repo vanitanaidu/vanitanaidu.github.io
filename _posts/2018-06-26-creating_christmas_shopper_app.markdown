@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Creating Christmas Shopper App"
-date:       2018-06-26 15:14:07 +0000
+date:       2017-03-03 00:00:00 -0500
 permalink:  creating_christmas_shopper_app
 ---
 
