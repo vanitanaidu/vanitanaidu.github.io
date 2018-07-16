@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Nested Form for an existing parent record.."
-date:       2018-06-26 15:14:49 +0000
+date:       2017-06-30 00:00:00 -0400
 permalink:  nested_form_for_an_existing_parent_record
 ---
 
