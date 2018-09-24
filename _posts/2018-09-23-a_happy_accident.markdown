@@ -18,8 +18,11 @@ So I started applying for full-time teaching positions. Job-hunting occupied me 
 
 I began with Codecademy. Free coding courses! Great! I was so excited!  It was a huge adventure, learning something completely alien to me. I never attended a single computer class in my life and didn’t know any coders. Here I was embarking in a journey completely out of my comfort zone. It was kind of weird yet thrilling. 
 
-There were days when I felt like I was achieving something! Computer is one the greatest inventions of all time and here I was giving instructions to that very invention. I was very excited to be making things! And then there were days that I would type 4 lines of code and tinker with it for an hour trying to figure where my code went wrong. 
-![](https://imgur.com/a/zlyKUOE)
+There were days when I felt like I was achieving something! Computer is one the greatest inventions of all time and here I was giving instructions to that very invention. I was very excited to be making things! 
+
+And then there were days that I would type 4 lines of code and tinker with it for an hour trying to figure where my code went wrong. 
+
+![](https://i.imgur.com/WKdI0XGl.jpg)
 
 
 These were the days that made me realized how much I enjoyed the challenge of coding and how much l was in the zone when I coded. I loved the details and problem solving.  I could have simply walked away from it because it was a free course, I didn’t have to do it but the more I got stuck with my code the more I persisted. There were days I even forgot to eat lunch because I was so engrossed in my code. That’s when I realized I had fallen in love and had to take this further. 
