@@ -5,10 +5,11 @@ date:       2018-09-23 19:58:26 -0400
 permalink:  a_happy_accident
 ---
 
-Never in a million years did I think I would like coding, let alone like it enough to pursue a career in it.  
+Never in a million years did I think I would like coding, let alone like it enough to pursue a career in it. 
+
 I’ll take you back to the beginning…
 
-In 2010, I met my now-husband, and he’s fantastic--Intellectual, ambitious, patient and caring.  He was the love of my life! However, marriage was a challenge. He was American and I was Singaporean and that meant one of us had to move across the globe to stay together. I was finishing a degree in counseling while we dated. After my graduation, he proposed and I decided that I’ll be the one to move. I thought then that I could find a job in school counseling in the US. My background was 3 years of teaching and 1-year clinical experience as a counselor. Little did I know that counselors need 3 years of further training to attain licensure to practice in the States. 
+In 2010, I met my now-husband, and he’s fantastic--intellectual, ambitious, patient and caring. He was the love of my life! However, marriage was a challenge. He was American and I was Singaporean and that meant one of us had to move across the globe to stay together. I was finishing a degree in counseling while we dated. After my graduation, he proposed and I decided that I’ll be the one to move. I thought then that I could find a job in school counseling in the US. My background was 3 years of teaching and 1-year clinical experience as a counselor. Little did I know that counselors need 3 years of further training to attain licensure to practice in the States. 
 
 I talked to practicing counselors and learned that I had 2 options: 
 1.	Take out loans to get a masters in counseling, or 
@@ -25,7 +26,7 @@ And then there were days that I would type 4 lines of code and tinker with it fo
 ![](https://i.imgur.com/WKdI0XGl.jpg)
 
 
-These were the days that made me realized how much I enjoyed the challenge of coding and how much l was in the zone when I coded. I loved the details and problem solving.  I could have simply walked away from it because it was a free course, I didn’t have to do it but the more I got stuck with my code the more I persisted. There were days I even forgot to eat lunch because I was so engrossed in my code. That’s when I realized I had fallen in love and had to take this further. 
+These were the days that made me realized how much I enjoyed the challenge of coding and how much l was in the zone when I coded. I loved the details and problem solving.  I could have simply walked away from it because it was a free course, I didn’t have to do it but the more I got stuck with my code, the more I persisted. There were days I even forgot to eat lunch because I was so engrossed in my code. That’s when I realized I had fallen in love and had to take this further. 
 
 Most of my first year coding, I was also teaching full-time (a temporary position). I was even offered a really attractive permanent job, and to everyone’s surprise, I turned down that offer to enroll in Flatiron School to build my skills in Rails, JavaScript, HTML, and CSS! Today, I’m a graduate of Flatiron school and I proudly call myself a full-stack web developer.
 My journey into software development was an accident, but it was sure a happy one!
