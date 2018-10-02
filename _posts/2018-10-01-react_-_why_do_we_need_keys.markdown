@@ -15,13 +15,11 @@ Every individual component in React gets automatically assigned a key to the ele
 
 ```
 <div>
-    <h1> Understanding </h1>
-	<h2> Keys </h2>
+    <h1> Understanding </h1><h2> Keys </h2>
 </div>
 
 <div>
-    <h1> In </h1>
-	<h2> React </h2>
+    <h1> In </h1><h2> React </h2>
 </div>
 
 ```
