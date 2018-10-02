@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "React - Why do we need keys?"
-date:       2018-10-02 03:38:58 +0000
+date:       2018-10-01 23:38:59 -0400
 permalink:  react_-_why_do_we_need_keys
 ---
 
@@ -45,9 +45,9 @@ Using these keys, React knows exactly what to re-render and what not to in the v
 
 ## How do we pick a key? 
 
-The best way to go about this is to use a string that uniquely identifies an element in the list among its other siblings. So, for example, the `id` of your data would be used as the key. 
+The best way to go about this, is to use a string that uniquely identifies an element in the list among its other siblings. So, for example, the `id` of your data would be used as the key. 
 
-When you don’t have a unique `id` for rendered elements, you may use the element's `index` as a key but this should only be done if you have absolutely no other options. The reason for this is, if the order of the items gets modified (eg; if you add a new item to the front of your list, the index 0 now points to that element), React will identity elements incorrectly and this will cause issues with the component state.  
+If you don’t have a unique `id` for rendered elements, you may use the element's `index` as a key but this should only be done if you have absolutely no other options. The reason for this is, if the order of the items gets modified (eg; if you add a new item to the front of your list, the index 0 now points to that element), React will identity elements incorrectly and this will cause issues with the component state.  
 
 ![](https://i.imgur.com/wJgzeJth.png)
 
